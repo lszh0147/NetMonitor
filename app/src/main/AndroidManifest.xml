@@ -12,9 +12,9 @@
     <application
         android:name=".BaseApp"
         android:allowBackup="true"
-        android:icon="@mipmap/icon_monitor"
+        android:icon="@drawable/icon_monitor"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
